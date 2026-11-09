@@ -1,0 +1,9 @@
+B1
+C
+F
+A1
+A2
+B2
+D
+Time: 9.01 s
+Work is done!
